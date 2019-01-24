@@ -4,8 +4,11 @@ body{
     margin: 0px;
     padding: 0px;
 
+    display: flex;
+    min-height: 100vh;
     justify-content: space-between;
     flex-direction: column;
+
 }
 
 form{
