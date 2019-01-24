@@ -1,0 +1,85 @@
+body{
+    background: #F3F7F9;
+    font-family: 'Noto Sans', 'NotoSansJP', 'Slack-Lato', 'appleLogo', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    height: 470px;
+}
+form{
+    background: #FFFFFF;
+    padding: 1.3rem;
+    border-top: 7px solid #4CC0B5;
+    border-radius: 7px;
+}
+header, footer{
+    background: #4CC0B5;
+}
+nav ul{
+    margin: 0;
+}
+nav ul li {
+    display: inline-block;
+    padding: 12px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.center{
+    width: 25%;
+    margin: auto;
+    padding: auto;
+    padding: 10px;
+}
+form input{
+    display: block;
+    width: 100%;
+    padding: 2px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+form label{
+    font-weight: 700;
+    color:#5A6C74
+}
+footer{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.underform-text{
+    font-size: 1rem;
+    color: #718694;
+}
+.align-center{
+    text-align: center;
+}
+.login-text{
+    font-size: 1.4rem;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  a{
+      text-decoration: none;
+      color: #348FDD;
+      font-weight: 700;
+      font-size: 15px;
+  }
+  button{
+      background-color: #4CC0B5;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding: 8px;
+    font-weight: 900;
+  }
+  .flex-container a{
+      margin-top: 8px;
+
+  }
