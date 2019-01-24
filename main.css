@@ -90,4 +90,7 @@ footer{
     nav ul li {
         padding: 3px;
     }
+    main{
+        height: 450px;
+    }
   }
